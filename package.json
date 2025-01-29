@@ -1,0 +1,19 @@
+{
+  "name": "@dim0nchik1/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dim0nchik1/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/dim0nchik1/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dim0nchik1/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
